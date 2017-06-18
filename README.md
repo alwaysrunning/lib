@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library For FE Development
 
   **Less-logic components && librories**
@@ -96,3 +97,7 @@ Ngnix 本地代理线上资源
     ...
   });
   ```
+=======
+# lib
+工具库
+>>>>>>> 7380c94fd5281ca503f2eeaff4725a9ac5c2bd41
